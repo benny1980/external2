@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Member 1 changes
+=======
+Member 2 changes
+>>>>>>> member2
